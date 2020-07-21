@@ -1,0 +1,8 @@
+
+class USB {
+
+  void connect() {
+
+  }
+
+}
